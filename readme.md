@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Awesome ADHD"
+permalink: /
 ---
 <div align="center">
 
